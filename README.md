@@ -29,3 +29,53 @@ python run_tests.py
 ```
 
 This will provide a visually appealing, colored output of all test results.
+# Calculator App
+
+This is a simple calculator application that performs basic arithmetic operations.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Square Root
+
+## Usage
+
+Run the `calculator.py` file to start the calculator:
+
+```
+python calculator.py
+```
+
+Follow the on-screen prompts to perform calculations.
+
+## Testing
+
+To run the tests, use the `run_tests.py` script:
+
+```
+python run_tests.py
+```
+
+This will provide a colored output of all test results.
+
+## Requirements
+
+- Python 3.x
+- termcolor (for colored test output)
+
+Install the required package:
+
+```
+pip install termcolor
+```
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests to contribute to this project.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).

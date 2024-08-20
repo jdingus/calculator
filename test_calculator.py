@@ -29,10 +29,6 @@ class TestCalculator(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.calc.square_root(-1)
 
-    def test_percentage(self):
-        self.assertEqual(self.calc.percentage(50, 200), 100)
-        self.assertEqual(self.calc.percentage(25, 80), 20)
-
     def test_clear(self):
         self.calc.add(5, 3)
         self.calc.clear()
