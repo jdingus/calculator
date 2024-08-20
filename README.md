@@ -40,7 +40,6 @@ This is a simple calculator application that performs basic arithmetic operation
 - Multiplication
 - Division
 - Square Root
-- Percentage Calculation
 
 ## Usage
 
